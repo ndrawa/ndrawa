@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me: <br>
 Hi there 👋, I'm Indra Wahyudi!<br><br>🔭 I’m currently working as a **Frontend Developer**, but previously had experience in **Backend Development** as well.<br><br>👯 I’m looking to collaborate on **Fullstack projects** as I aim to become a **Fullstack Developer**.<br><br>🤝 I’m looking for help with improving my **DevOps skills** and deepening my **Fullstack Development** expertise.<br><br>🌱 I’m currently learning **Vue.js** for frontend development and **Golang** for backend.<br><br>💬 Ask me about **Backend API development** — it's the field I enjoy and have strong knowledge in.  <br>(Still leveling up in Vue.js, DevOps, and Fullstack!)<br><br>⚡ Fun fact  <br>I love coding late at night when it's quiet — feels like being a "bat" 🦇 (sleeping by day, productive at night)!  <br>I also enjoy working on side projects to explore and sharpen my skills.<br><br>---<br>_"Progress, not perfection. Keep building."_ 🚀<br>
 
 
